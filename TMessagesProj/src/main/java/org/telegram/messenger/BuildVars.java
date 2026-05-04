@@ -29,8 +29,8 @@ public class BuildVars {
     public static String BUILD_VERSION_STRING = "1.12.6";
 
 
-    public static int APP_ID = 6;
-    public static String APP_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e";
+    public static int APP_ID = 0;
+    public static String APP_HASH = "";
 
     public static String SAFETYNET_KEY = "";
     public static String PLAYSTORE_APP_URL = "";
