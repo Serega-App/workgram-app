@@ -1,0 +1,45 @@
+# Gradle / IDE
+.gradle/
+.idea/
+*.iml
+local.properties
+
+# Build
+build/
+*/build/
+.cxx/
+.externalNativeBuild/
+
+# OS
+.DS_Store
+
+# Native build (если это именно build output)
+obj/
+
+# APK / AAB
+*.apk
+*.aab
+
+# Keystore
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# Android Studio captures
+captures/
+
+# Signing configs (на всякий)
+*.pem
+
+# Huge native stuff
+TMessagesProj/jni/boringssl/third_party/
+TMessagesProj/jni/boringssl/crypto_test_data/
+
+# Native build
+.cxx/
+obj/
+
+# Gradle cache
+.gradle/
