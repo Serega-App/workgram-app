@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "address": "163.5.153.225",
+  "port": 443,
+  "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
+  "flow": "xtls-rprx-vision",
+  "security": "reality",
+  "sni": "eh.vk.ru",
+  "fingerprint": "firefox",
+  "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
+  "shortId": "26505150",
+  "spiderX": "/GYjlduMO7IBJJdx",
+  "network": "tcp",
+  "localPort": 10808
+}
