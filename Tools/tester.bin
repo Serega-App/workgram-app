@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "address": "163.5.153.225",
+  "address": "cdn.api-data-sync.site",
   "port": 443,
   "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
   "flow": "xtls-rprx-vision",
