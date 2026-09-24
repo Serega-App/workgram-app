@@ -29,7 +29,7 @@
       "network": "tcp"
     },
     {
-      "address": "195.226.93.52",
+      "address": "88.214.54.62",
       "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "xtls-rprx-vision",
