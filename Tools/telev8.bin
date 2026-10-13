@@ -3,14 +3,14 @@
   "localPort": 10808,
   "servers": [
     {
-      "address": "163.5.153.161",
+      "address": "88.214.54.62",
       "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "xtls-rprx-vision",
       "security": "reality",
       "sni": "eh.vk.ru",
       "fingerprint": "firefox",
-      "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
+      "publicKey": "f45f0677-9069-4284-964e-a0e275529531",
       "shortId": "26505150",
       "spiderX": "/GYjlduMO7IBJJdx",
       "network": "tcp"
