@@ -3,6 +3,32 @@
   "localPort": 10808,
   "servers": [
     {
+      "address": "163.5.153.161",
+      "port": 443,
+      "id": "5a8a1f3c-143e-402c-862c-ff9d31b4d1c1",
+      "flow": "xtls-rprx-vision",
+      "security": "reality",
+      "sni": "eh.vk.ru",
+      "fingerprint": "firefox",
+      "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
+      "shortId": "26505150",
+      "spiderX": "/GYjlduMO7IBJJdx",
+      "network": "tcp"
+    },
+    {
+      "address": "212.192.210.225",
+      "port": 443,
+      "id": "4c4fbc9d-69f3-45d9-8b89-398b859aaff6",
+      "flow": "xtls-rprx-vision",
+      "security": "reality",
+      "sni": "eh.vk.ru",
+      "fingerprint": "firefox",
+      "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
+      "shortId": "26505150",
+      "spiderX": "/GYjlduMO7IBJJdx",
+      "network": "tcp"
+    },
+    {
       "address": "88.214.54.62",
       "port": 443,
       "id": "f45f0677-9069-4284-964e-a0e275529531",
@@ -10,7 +36,7 @@
       "security": "reality",
       "sni": "eh.vk.ru",
       "fingerprint": "firefox",
-      "publicKey": "f45f0677-9069-4284-964e-a0e275529531",
+      "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
       "shortId": "26505150",
       "spiderX": "/GYjlduMO7IBJJdx",
       "network": "tcp"
