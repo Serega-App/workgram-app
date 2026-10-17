@@ -16,7 +16,7 @@
       "network": "tcp"
     },
     {
-      "address": "138.124.89.29",
+      "address": "153.52.103.217",
       "port": 443,
       "id": "274589e0-c123-4983-8ad7-301a088e824c",
       "flow": "xtls-rprx-vision",
