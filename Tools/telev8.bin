@@ -3,8 +3,22 @@
   "localPort": 10808,
   "servers": [
     {
-      "remark": "France-Paris-VK",
-      "address": "138.124.89.29",
+      "remark": "Czech-Apple",
+      "address": "194.87.52.94",
+      "port": 443,
+      "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
+      "flow": "xtls-rprx-vision",
+      "security": "reality",
+      "sni": "itunes.apple.com",
+      "fingerprint": "safari",
+      "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
+      "shortId": "26505150",
+      "spiderX": "/8b098acb822d601",
+      "network": "tcp"
+    },
+    {
+      "remark": "France-VK",
+      "address": "95.163.152.102",
       "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "xtls-rprx-vision",
@@ -17,7 +31,7 @@
       "network": "tcp"
     },
     {
-      "remark": "France-Paris-VK-Dub",
+      "remark": "Amster-VK-Dub",
       "address": "138.124.89.29",
       "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
