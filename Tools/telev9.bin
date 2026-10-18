@@ -4,7 +4,7 @@
   "servers": [
     {
       "remark": "Amsterdam-France",
-      "address": "138.124.89.29",
+      "address": "95.163.152.102",
       "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "xtls-rprx-vision",
@@ -12,7 +12,7 @@
       "sni": "eh.vk.ru",
       "fingerprint": "firefox",
       "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
-      "shortId": "f195",
+      "shortId": "2a",
       "spiderX": "/8b098acb822d601",
       "network": "tcp"
     },
@@ -26,7 +26,7 @@
       "sni": "eh.vk.ru",
       "fingerprint": "firefox",
       "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
-      "shortId": "f195",
+      "shortId": "2a",
       "spiderX": "/8b098acb822d601",
       "network": "tcp"
     }
