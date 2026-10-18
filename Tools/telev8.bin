@@ -3,6 +3,7 @@
   "localPort": 10808,
   "servers": [
     {
+      "remark": "Amsterdam-France",
       "address": "194.87.52.94",
       "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
@@ -16,15 +17,16 @@
       "network": "tcp"
     },
     {
+      "remark": "Russia-VDSina",
       "address": "95.163.152.102",
       "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "xtls-rprx-vision",
       "security": "reality",
-      "sni": "itunes.apple.com",
-      "fingerprint": "safari",
+      "sni": "eh.vk.ru",
+      "fingerprint": "firefox",
       "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
-      "shortId": "26505150",
+      "shortId": "f195",
       "spiderX": "/8b098acb822d601",
       "network": "tcp"
     }
