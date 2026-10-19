@@ -3,7 +3,7 @@
   "localPort": 10808,
   "servers": [
     {
-      "remark": "Czech-Apple",
+      "remark": "Czech-iTunes",
       "address": "138.124.89.29",
       "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
@@ -12,12 +12,12 @@
       "sni": "itunes.apple.com",
       "fingerprint": "safari",
       "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
-      "shortId": "26505150",
+      "shortId": "221b3e411478dd",
       "spiderX": "/8b098acb822d601",
       "network": "tcp"
     },
     {
-       "remark": "Czech-Apple",
+      "remark": "Paris-iTunes",
       "address": "138.124.89.29",
       "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
@@ -26,21 +26,21 @@
       "sni": "itunes.apple.com",
       "fingerprint": "safari",
       "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
-      "shortId": "26505150",
+      "shortId": "221b3e411478dd",
       "spiderX": "/8b098acb822d601",
-      "network": "tcp""
+      "network": "tcp"
     },
     {
-      "remark": "Czech-Apple",
+      "remark": "Paris-VK",
       "address": "138.124.89.29",
       "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "xtls-rprx-vision",
       "security": "reality",
-      "sni": "itunes.apple.com",
-      "fingerprint": "safari",
+      "sni": "eh.vk.ru",
+      "fingerprint": "firefox",
       "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
-      "shortId": "26505150",
+      "shortId": "221b3e411478dd",
       "spiderX": "/8b098acb822d601",
       "network": "tcp"
     }
