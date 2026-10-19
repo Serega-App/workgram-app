@@ -4,7 +4,7 @@
   "servers": [
     {
       "remark": "Paris-VK",
-      "address": "95.163.152.102",
+      "address": "138.124.89.29",
       "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "xtls-rprx-vision",
@@ -18,7 +18,7 @@
     },
     {
       "remark": "Paris-VK-Dub",
-      "address": "138.124.89.29",
+      "address": "95.163.152.102",
       "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "xtls-rprx-vision",
